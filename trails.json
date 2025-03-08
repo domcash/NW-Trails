@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Cwm Idwal",
+        "coordinates":[-4.021, 53.116],
+        "location": "Cwm Idwal Valley, Snowdonia, Wales",
+        "distance_m": "3 miles",
+        "time": "2-3 hours",
+        "type": "Loop",
+        "difficulty": "Moderate",
+        "image": "images/cwm_idwal_walk.webp"
+    },
+
+    {
+        "name": "Aber Falls ",
+        "coordinates":[-3.9960, 53.2108],
+        "location": "Abergwyngregyn, Gwynedd, Wales",
+        "distance_m": "2.5 miles",
+        "time": "1-2 hours",
+        "type": "Out and back",
+        "difficulty": "Easy",
+        "image": "images/aber_falls.jpeg"
+    },
+
+    {
+        "name": "Yr Wyddfa (Snowdon) via Watkin Path",
+        "coordinates":[-4.0763, 53.0685],
+        "location": "Snowdonia National Park, Wales",
+        "distance_m": "8 miles",
+        "time": "5-7 hours",
+        "type": "Out and back",
+        "difficulty": "Advanced",
+        "image": "images/watkin.jpg"
+    },
+
+    {
+        "name": "Moel Famau",
+        "coordinates":[-3.2559, 53.1545],
+        "location": "Clwydian Range, Flintshire, Wales",
+        "distance_m": "3 miles",
+        "time": "2 hours",
+        "type": "Out and back",
+        "difficulty": "Moderate",
+        "image": "images/moel_famau.jpg"
+    },
+
+    {
+        "name": "Llyn Brenig Reservoir",
+        "coordinates":[-3.5342, 53.0876],
+        "location": "Llyn Brenig, Denbighshire, Wales",
+        "distance_m": "9.5 miles",
+        "time": "4 hours",
+        "type": "Loop",
+        "difficulty": "Moderate",
+        "image": "images/llyn_brenig.png"
+    },
+
+    {
+        "name": "Castell Dinas Bran & the River Dee from Llangollen",
+        "coordinates":[-3.1593, 52.9793],
+        "location": "Llangollen, Denbighshire, Wales",
+        "distance_m": "3.5 miles",
+        "time": "2 hours",
+        "type": "Loop",
+        "difficulty": "Moderate",
+        "image": "images/llangollen.webp"
+    },
+
+    {
+        "name": "Mynydd y Cwm",
+        "coordinates":[-3.3918, 53.2795],
+        "location": "Cwm, Dyserth, Denbighshire, Wales",
+        "distance_m": "1.5 miles",
+        "time": "1-2 hours",
+        "type": "Loop",
+        "difficulty": "Easy",
+        "image": "images/cwm.webp"
+    },
+
+    {
+        "name": "Trearddur Bay to Rhoscolyn",
+        "coordinates":[-4.6172, 53.2822],
+        "location": "Trearddur Bay, Anglesey, Wales",
+        "distance_m": "8 miles",
+        "time": "3 hours",
+        "type": "Loop",
+        "difficulty": "Moderate",
+        "image": "images/trearddur_bay.webp"
+    }
+]
