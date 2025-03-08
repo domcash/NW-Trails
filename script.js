@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tY2FzaCIsImEiOiJjbTd5bjVuYm8wZWx2MmpyNnhmNnowOG10In0.ZW97QvBDUZ6jNpHzVqEaJQ';
+mapboxgl.accessToken = process.env.MAPBOX_TOKEN;
 
 // Initialise the map
 setupMap([-3.7957, 53.1370]);
