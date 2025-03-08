@@ -85,5 +85,38 @@
         "type": "Loop",
         "difficulty": "Moderate",
         "image": "images/trearddur_bay.webp"
+    },
+
+    {
+        "name": "Loggerheads Country Park",
+        "coordinates":[-3.1994, 53.1565],
+        "location": "Loggerheads, Denbighshire, Wales",
+        "distance_m": "1.5 miles",
+        "time": "1 hour",
+        "type": "Loop",
+        "difficulty": "Easy",
+        "image": "images/loggerheads.jpg"
+    },
+
+    {
+        "name": "Swallow Falls",
+        "coordinates":[-3.8457, 53.1024],
+        "location": "Rhaeadr Ewynnol / Swallow Falls, Snowdonia, Wales",
+        "distance_m": "2 miles",
+        "time": "1 hour",
+        "type": "Loop",
+        "difficulty": "Easy",
+        "image": "images/swallowfalls.jpeg"
+    },
+
+    {
+        "name": "Crib Goch (Snowdon) from Pen y Pass",
+        "coordinates":[-4.0535, 53.0755],
+        "location": "Snowdonia National Park, Wales",
+        "distance_m": "3 miles",
+        "time": "3-4 hours",
+        "type": "Out and back",
+        "difficulty": "Advanced",
+        "image": "images/cribgoch.jpg"
     }
 ]
